@@ -1,0 +1,438 @@
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\appsettings.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.staticwebassets.runtime.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.staticwebassets.endpoints.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.exe
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.deps.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.runtimeconfig.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.pdb
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Humanizer.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.AssemblyInfo.cs
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\scopedcss\bundle\ASPCRUD Assignment.styles.css
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\scopedcss\projectbundle\ASPCRUD Assignment.bundle.scp.css
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hjiamh8us8-b9sayid5wm.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\l005uml7t3-61n19gt1b8.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\3rfp4ish0e-xtxxf3hu2r.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\zkzj4wtml7-bqjiyaj88i.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hm9pijkctc-c2jlpeoesf.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\zhpda3gc37-erw9l3u2r3.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hvpiytxdz7-aexeepp0ev.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\4t67658hr2-d7shbmvgxk.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\gznyuf2ijt-ausgxo2sd3.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\jeiemter4n-k8d9w2qqmf.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\omcv4kpfti-cosvhxvwiu.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\28791cqtyu-ub07r2b239.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\pkhe1vtwt4-fvhpjtyr6v.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\e9hc0aoksr-b7pk76d08c.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\h7f942hhm2-fsbi9cje9m.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\ahdj5vwglp-rzd6atqjts.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\3fxw4w0upf-ee0r1s7dh0.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\djya8ksbyd-dxx9fxp4il.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\6qovtw6c1r-jd9uben2k1.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\vkxofhrte6-khv3u5hwcm.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\x9lgyk7s1s-r4e9w2rdcm.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\njf7u9lzxv-lcd1t2u6c8.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\otvewxuhg7-c2oey78nd0.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\dgb73z3953-tdbxkamptv.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\4cnwdysrjz-j5mq2jizvt.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hbvb9wh4bx-06098lyss8.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\tn1606hqf6-nvvlpmu67g.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\dux3uqgpqg-s35ty4nyc5.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\2salo8dnwx-pj5nd1wqec.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\40fy6e1954-46ein0sx1k.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\28u3ilv6d2-v0zj4ognzu.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\8dnxork7qz-37tfw0ft22.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\vqceqisoz2-hrwsygsryq.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\ccja6hnzgn-pk9g2wxc8p.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\83lgsokdhp-ft3s53vfgj.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\mx5z15vw9c-6cfz1n2cew.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\11ds8r5fc5-6pdc2jztkx.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\bmyk8o2dee-493y06b0oq.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hi43t9uqm1-iovd86k7lj.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\1vtcfvszq7-vr1egmr9el.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\875am0n7z1-kbrnm935zg.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\2u5m4eglak-jj8uyg4cgr.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\kt97ro3s7y-y7v9cxd14o.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\2jmlmxq400-notf2xhcfb.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\uovdzvuton-h1s4sie4z3.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\wji8whpdbv-63fj8s7r0e.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\h82rui2ih1-0j3bgjxly4.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\nkr4na5ds5-47otxtyo56.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\ruoxc5bhpl-4v8eqarkd7.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\i2uhsfv277-356vix0kms.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\r2dgtwmfz0-83jwlth58m.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\glv8giflvr-mrlpezrjn3.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\yssdf2sdhp-lzl9nlhx6b.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\uy7abencpi-ag7o75518u.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\lppescsi0s-x0q3zqp4vz.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\k3nlg9caax-0i3buxo5is.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\1u47jwqhcr-o1o13a6vjx.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\fnmcek2r13-ttgo8qnofa.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\y7ncf74r55-2z0ns9nrw6.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\sqpalg2hiw-muycvpuwrr.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\sv7mc87imc-87fc7y1x7t.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\tvrdi17y6z-mlv21k5csn.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\mi5fmvlvpn-uy5x6k0dhm.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\ve1bckoo5q-uy5x6k0dhm.gz
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD .A0E2E7F4.Up2Date
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\refint\ASPCRUD Assignment.dll
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.pdb
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.genruntimeconfig.cache
+C:\Users\pc\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ref\ASPCRUD Assignment.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\appsettings.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.staticwebassets.runtime.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.staticwebassets.endpoints.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.exe
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.deps.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.runtimeconfig.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ASPCRUD Assignment.pdb
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Humanizer.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.csproj.AssemblyReference.cache
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.AssemblyInfoInputs.cache
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.AssemblyInfo.cs
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.csproj.CoreCompileInputs.cache
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.RazorAssemblyInfo.cache
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.RazorAssemblyInfo.cs
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\scopedcss\bundle\ASPCRUD Assignment.styles.css
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\scopedcss\projectbundle\ASPCRUD Assignment.bundle.scp.css
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hjiamh8us8-b9sayid5wm.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\l005uml7t3-61n19gt1b8.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\3rfp4ish0e-xtxxf3hu2r.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\zkzj4wtml7-bqjiyaj88i.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hm9pijkctc-c2jlpeoesf.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\zhpda3gc37-erw9l3u2r3.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hvpiytxdz7-aexeepp0ev.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\4t67658hr2-d7shbmvgxk.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\gznyuf2ijt-ausgxo2sd3.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\jeiemter4n-k8d9w2qqmf.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\omcv4kpfti-cosvhxvwiu.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\28791cqtyu-ub07r2b239.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\pkhe1vtwt4-fvhpjtyr6v.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\e9hc0aoksr-b7pk76d08c.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\h7f942hhm2-fsbi9cje9m.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\ahdj5vwglp-rzd6atqjts.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\3fxw4w0upf-ee0r1s7dh0.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\djya8ksbyd-dxx9fxp4il.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\6qovtw6c1r-jd9uben2k1.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\vkxofhrte6-khv3u5hwcm.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\x9lgyk7s1s-r4e9w2rdcm.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\njf7u9lzxv-lcd1t2u6c8.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\otvewxuhg7-c2oey78nd0.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\dgb73z3953-tdbxkamptv.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\4cnwdysrjz-j5mq2jizvt.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hbvb9wh4bx-06098lyss8.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\tn1606hqf6-nvvlpmu67g.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\dux3uqgpqg-s35ty4nyc5.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\2salo8dnwx-pj5nd1wqec.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\40fy6e1954-46ein0sx1k.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\28u3ilv6d2-v0zj4ognzu.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\8dnxork7qz-37tfw0ft22.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\vqceqisoz2-hrwsygsryq.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\ccja6hnzgn-pk9g2wxc8p.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\83lgsokdhp-ft3s53vfgj.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\mx5z15vw9c-6cfz1n2cew.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\11ds8r5fc5-6pdc2jztkx.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\bmyk8o2dee-493y06b0oq.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\hi43t9uqm1-iovd86k7lj.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\1vtcfvszq7-vr1egmr9el.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\875am0n7z1-kbrnm935zg.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\2u5m4eglak-jj8uyg4cgr.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\kt97ro3s7y-y7v9cxd14o.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\2jmlmxq400-notf2xhcfb.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\uovdzvuton-h1s4sie4z3.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\wji8whpdbv-63fj8s7r0e.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\h82rui2ih1-0j3bgjxly4.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\nkr4na5ds5-47otxtyo56.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\ruoxc5bhpl-4v8eqarkd7.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\i2uhsfv277-356vix0kms.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\r2dgtwmfz0-83jwlth58m.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\glv8giflvr-mrlpezrjn3.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\yssdf2sdhp-lzl9nlhx6b.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\uy7abencpi-ag7o75518u.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\lppescsi0s-x0q3zqp4vz.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\k3nlg9caax-0i3buxo5is.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\1u47jwqhcr-o1o13a6vjx.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\fnmcek2r13-ttgo8qnofa.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\y7ncf74r55-2z0ns9nrw6.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\sqpalg2hiw-muycvpuwrr.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\sv7mc87imc-87fc7y1x7t.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\tvrdi17y6z-mlv21k5csn.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\mi5fmvlvpn-uy5x6k0dhm.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\compressed\ve1bckoo5q-uy5x6k0dhm.gz
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD .A0E2E7F4.Up2Date
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\refint\ASPCRUD Assignment.dll
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.pdb
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ASPCRUD Assignment.genruntimeconfig.cache
+C:\Users\SOOQ ELASER\Desktop\ASPCRUD Assignment\ASPCRUD Assignment\ASPCRUD Assignment\obj\Debug\net9.0\ref\ASPCRUD Assignment.dll
